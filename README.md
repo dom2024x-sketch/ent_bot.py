@@ -8,7 +8,7 @@ from telegram.ext import (
 )
 
 BOT_TOKEN = os.getenv("
-8237010247:AAEb-qzP-aVla3QmlpmWqcW79PqJDgW8VPw")
+")
 FREE_LIMIT = 5
 PAYMENT_TEXT = "💳 Оплатить подписку: @erdgxz"
 
