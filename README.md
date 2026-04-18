@@ -7,7 +7,7 @@ from telegram.ext import (
     ContextTypes, ConversationHandler
 )
 
-BOT_TOKEN = os.getenv("
+BOT_TOKEN = os.getenv("BOT_TOKEN
 ")
 FREE_LIMIT = 5
 PAYMENT_TEXT = "💳 Оплатить подписку: @erdgxz"
